@@ -27,19 +27,20 @@ O **JokenPO** é um aplicativo desenvolvido em Flutter que simula o clássico jo
 - **Dart:** Linguagem de programação utilizada para implementar a lógica e a interface do aplicativo.
 
 ## Estrutura do Projeto
-JokenPo/
+JokenPO/
+
 ├── assets/
+
 ├── images/
+
 ├── lib/
+
 │   ├── jogo.dart
+
 │   ├── main.dart
+
 ├── README.md
 
-- **Método `_opcaoSelecionada`:**  
-  Função acionada ao tocar em uma das imagens do usuário. Ela:
-  - Seleciona uma opção aleatória para o App.
-  - Atualiza a imagem exibida de acordo com a escolha do App.
-  - Determina e atualiza o resultado final da jogada (vitória, derrota ou empate).
 
 ## Pré-requisitos
 
@@ -49,12 +50,20 @@ JokenPo/
 - **Emulador ou Dispositivo Físico:**  
   Para testar e executar o aplicativo.
 
-## Como Executar
+- **Utilizar a IDE FlutLab:**  
+  Para testar e executar o aplicativo.
 
-1. **Clone o repositório:**
+##Capturas de Tela
+<img src="https://github.com/user-attachments/assets/893528e7-37eb-482b-97be-a9b106a319e8" alt="Descrição da imagem" width="300">
+<img src="https://github.com/user-attachments/assets/746a4637-3190-4b84-b921-49eec3feb4e4" alt="Descrição da imagem" width="300">
+<img src="https://github.com/user-attachments/assets/f1612830-c546-47c7-a59c-c983d1534123" alt="Descrição da imagem" width="300">
 
-   ```bash
-   git clone https://seu-repositorio-url.git
+
+
+##Video
+
+https://github.com/user-attachments/assets/f7e8f74c-f198-4902-bf4b-8004b9c2d449
+
 
 ## Licensa
 Este projeto foi desenvolvido para fins acadêmicos.
